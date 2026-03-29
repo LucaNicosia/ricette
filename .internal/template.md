@@ -1,4 +1,4 @@
-# Crostata
+# Ricetta
 
 ## Ingredienti
 
