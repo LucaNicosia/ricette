@@ -26,3 +26,9 @@ Cottura: 40 minuti (a 180°)
 6. tirate il resto dell’impasto con il mattarello e ricavatene delle striscioline con la rotella dentellata. Decorate la superficie della crostata con le strisce.
 7. Cuocete la crostata in forno statico, a **180°** per **40** minuti.
 
+## Voti
+
+*Chiara*: da valutare
+*Luca*: da valutare
+
+*link*: https://blog.cookaround.com/lamimosarosa/crostata-vegan-con-marmellata/
