@@ -3,7 +3,7 @@
 ## Ingredienti
 
 
-## Tempi
+## Dati
 
 Preparazione:
 

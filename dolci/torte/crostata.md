@@ -10,11 +10,13 @@
 - 1 Bustina di vanillina
 - Marmettala a ricoprire bene
 
-## Tempi
+## Dati
 
 Preparazione: 10 minuti
 
 Cottura: 40 minuti (a 180°)
+
+Tortiera da 24 cm
 
 ## Preparazione
 
