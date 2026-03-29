@@ -9,6 +9,8 @@ Preparazione:
 
 Cottura:
 
+Si può congelare: ✅❌
+
 ## Preparazione
 
 ## Voti
