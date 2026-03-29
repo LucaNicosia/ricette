@@ -31,6 +31,7 @@ Tortiera da 24 cm
 ## Voti
 
 *Chiara*: da valutare
+
 *Luca*: da valutare
 
 *link*: https://blog.cookaround.com/lamimosarosa/crostata-vegan-con-marmellata/
