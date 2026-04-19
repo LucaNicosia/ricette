@@ -17,6 +17,7 @@ Ricette di Luca e Chiara
     │   └── peperonata.md
     ├── sughi
     │   └── ragu di lenticchie.md
+        └── sugo di verdure.md
     └── torte salate
         └── torta melanzane pomodori e cipolle.md
 ```
