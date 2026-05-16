@@ -13,7 +13,7 @@ Ricette di Luca e Chiara
 └── salate
     ├── antipasti
     ├── primi
-    │   └── gnocchi all sorrentina.md
+    │   └── gnocchi alla sorrentina.md
     ├── secondi
     │   └── peperonata.md
     ├── sughi
