@@ -14,6 +14,7 @@ Ricette di Luca e Chiara
     ├── antipasti
     ├── primi
     │   └── gnocchi alla sorrentina.md
+    │   └── zucchine-tonde-ripiene.md
     ├── secondi
     │   └── peperonata.md
     ├── sughi
