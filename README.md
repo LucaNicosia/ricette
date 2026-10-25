@@ -17,6 +17,7 @@ Ricette di Luca e Chiara
     │   └── risoni in zucca.md
     ├── secondi
     │   └── peperonata.md
+    │   └── fagiolata.md
     │   └── zucchine-tonde-ripiene.md
     ├── sughi
     │   └── ragu di lenticchie.md
