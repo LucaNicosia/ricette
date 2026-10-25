@@ -30,8 +30,21 @@ Tortiera da 24 cm
 
 ## Voti
 
-*Chiara*: da valutare
+*Chiara*:
+- fichi
+- lamponi
+- mirtilli
+- frutti di bosto
+- fragola
+- albicocche
 
-*Luca*: da valutare
+*Luca*: 
+
+- fichi
+- lamponi
+- mirtilli: 9/10
+- frutti di bosto
+- fragola
+- albicocche
 
 *link*: https://blog.cookaround.com/lamimosarosa/crostata-vegan-con-marmellata/
