@@ -10,7 +10,13 @@
 
 ## Dati
 
-Preparazione:
+Preparazione: 20 minuti
+
+Cottura: 15 minuti
+
+Si può congelare: ✅
+
+## Preparazione
 
 1. aggiungere un filo d'olio alla padella
 2. tagliare lo scalogno finemente
@@ -19,10 +25,6 @@ Preparazione:
 5. aggiungere i fagioli borlotti e lasciar soffriggere per 5/10 minuti
 6. aggiungere salsa di pomodoro a coprire il composto
 7. lasciar cuocere finchè non si riduce un po'
-
-Si può congelare: ✅
-
-## Preparazione
 
 ## Voti
 
